@@ -1,10 +1,8 @@
-# buggy_script_1.py
-
 print("Welcome to the program")
 
 
-num1 = input("Enter a number: ")
-num2 = input("Enter another number: ")
+num1 = int(input("Enter a number: "))
+num2 = int(input("Enter another number: "))
 
 
 result = num1 + num2
